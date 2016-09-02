@@ -1,0 +1,11 @@
+D:\Programs\Programming\Projects\SoundCloud Downloader\SoundCloud Downloader\bin\Debug\SoundCloud Downloader.exe.config
+D:\Programs\Programming\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\Debug\SoundCloud Downloader.csprojResolveAssemblyReference.cache
+D:\Programs\Programming\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\Debug\SoundCloud_Downloader.Form1.resources
+D:\Programs\Programming\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\Debug\SoundCloud_Downloader.Properties.Resources.resources
+D:\Programs\Programming\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\Debug\SoundCloud Downloader.csproj.GenerateResource.Cache
+D:\Programs\Programming\Projects\SoundCloud Downloader\SoundCloud Downloader\bin\Debug\SoundCloud Downloader.exe
+D:\Programs\Programming\Projects\SoundCloud Downloader\SoundCloud Downloader\bin\Debug\SoundCloud Downloader.pdb
+D:\Programs\Programming\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\Debug\SoundCloud Downloader.exe
+D:\Programs\Programming\Projects\SoundCloud Downloader\SoundCloud Downloader\obj\Debug\SoundCloud Downloader.pdb
+D:\Programs\Programming\Projects\SoundCloud Downloader\SoundCloud Downloader\bin\Debug\Newtonsoft.Json.dll
+D:\Programs\Programming\Projects\SoundCloud Downloader\SoundCloud Downloader\bin\Debug\Newtonsoft.Json.xml
